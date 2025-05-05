@@ -1,6 +1,6 @@
 # 🧪 Automation API Testing – Test API By kelasotomesyion
 
-Project ini dibuat untuk melakukan pengujian otomatis (end-to-end) terhadap [Restful Booker API](https://testapi.kelasotomesyen.com/) menggunakan:
+Project ini dibuat untuk melakukan pengujian otomatis (end-to-end) terhadap [Restful Test API](https://testapi.kelasotomesyen.com/) menggunakan:
 
 - [Mocha](https://mochajs.org/) – Test framework
 - [Chai](https://www.chaijs.com/) – Assertion library
@@ -15,7 +15,7 @@ Project ini dibuat untuk melakukan pengujian otomatis (end-to-end) terhadap [Res
 
 ```bash
 git clone <repo-url>
-cd automation-api-testing
+cd cypress-api
 ```
 
 2. Install dependencies:
